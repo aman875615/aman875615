@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aman Kumar Verma 👋
 
-<!--
-**aman875615/aman875615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 💻 Full-Stack Developer | 🧠 C++ & DSA
 
-Here are some ideas to get you started:
+I build practical web applications and am currently learning Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- 🚀 [VyaprLink](https://github.com/aman875615/VyaprLink)
+- 🏥 [Prescripto](https://github.com/aman875615/PRESCRIPTO) — Doctor appointment booking system
+- 🔗 [URL Shortener](https://github.com/aman875615/url-shortener) — Node.js, Express.js & MongoDB
+- 📝 [Blogify](https://github.com/aman875615/Blogify)
+
+## Tech Stack
+
+C++ · JavaScript · React · Node.js · Express.js · MongoDB · HTML · CSS
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/aman-verma-1353a534a)
